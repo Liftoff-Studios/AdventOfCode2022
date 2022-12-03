@@ -1,1 +1,1 @@
-# Day 1 Solutions :)
+# My Rusty Solutions For Advent of Code
