@@ -4,3 +4,4 @@
 |------|------|--------|--------|----------|
 | Day 1| Snack Calorie Counting | ✅ | ✅ | Rust|
 | Day 2| Rock Paper Scissors | ✅ | ✅ | Rust|
+| Day 3| Food Bag Sorting | ✅ | ✅ | Rust|
