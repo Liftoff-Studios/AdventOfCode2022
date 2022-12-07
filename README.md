@@ -7,3 +7,4 @@
 | Day 3| Food Bag Sorting | ✅ | ✅ | Rust|
 | Day 4| Camp Cleanup | ✅ | ✅ | Rust|
 | Day 5| Crane Sort | ✅ | ✅ | Rust|
+| Day 6| Communication System | ✅ | ✅ | Rust|
